@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-alx student
+Task 0. Where am I?
